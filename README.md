@@ -56,12 +56,15 @@ npm start
   **Solution:** Conditional rendering & state checks.
 
 ## Screenshots
-(Add screenshots here after running the app)
 
-Example:
-
-![Screenshot Example](./screenshot.png)
-
+![Image](https://github.com/user-attachments/assets/3ce80795-73d1-4133-8605-7008476976fd)
+*Screenshot showing the initial UI of the counter app with the counter display and control buttons.* 
+![Image](https://github.com/user-attachments/assets/05e77565-ebe5-4cff-b229-92a2e6000e11)
+*Screenshot demonstrating the increment (+) button working and increasing the counter value.* 
+![Image](https://github.com/user-attachments/assets/3970ccf8-86f2-4e65-8dfb-d4b83c7a4442)
+*Screenshot showing the decrement (-) button functioning correctly and decreasing the counter value.* 
+![Image](https://github.com/user-attachments/assets/7820e1eb-44ec-4496-9a7f-d2339692219d)
+*Screenshot illustrating the buttons (+ and -) disabled at the upper and lower bounds respectively to prevent exceeding limits.* 
 ---
 
 ## Feature List
