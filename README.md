@@ -33,7 +33,7 @@ Includes customizable step size, upper/lower bounds, option to allow/disallow ne
 ## How to Run Locally
 - **Clone the repository**
 ```bash
-git clone [Your GitHub Repo URL]
+git clone https://github.com/vikash4509/React-Counter-App.git
 ```
 - **Navigate into the project folder**
 ```bash
