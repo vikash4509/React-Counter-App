@@ -18,7 +18,7 @@ Includes customizable step size, upper/lower bounds, option to allow/disallow ne
 
 ## Links
 - **GitHub Repository:** https://github.com/vikash4509/React-Counter-App.git
-- **Live Demo:** [Add your Netlify/Vercel Live Demo Link here]
+- **Live Demo:** https://react-counter-app-myproject.netlify.app/
 
 ---
 
